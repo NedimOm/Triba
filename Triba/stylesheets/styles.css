@@ -1,0 +1,36 @@
+
+.centriranje{
+	display:flex; 
+	align-items: center; 
+	justify-content: center;
+}
+
+#platno{
+	height: 100%;
+	width: auto;
+}
+
+
+.oblast{
+	 background-color: #ccffff; 
+	 color:black; 
+}
+
+nav ul li:hover{
+	border-radius: 6px;
+	color: blue;
+	background-color: black;
+}
+
+article{
+	font-family: Georgia, sans-serif;
+}
+
+div.kontejner {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}

@@ -1,0 +1,12 @@
+body{
+	background-color: lightblue;
+}
+
+main, article {
+	text-align: center;
+}
+
+.oblast{
+	 background-color: #ccffff; 
+	 color:black; 
+}
